@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity"
+    >
+    <item  android:id="@+id/gallery"
+           android:title="@string/ChoosefromGallery"/>
+    <item  android:id="@+id/folder"
+           android:title="@string/CreateFolder"/>
+    <item  android:id="@+id/email"
+           android:title="@string/sendEmail"/>
+    <item  android:id="@+id/share"
+           android:title="@string/Share"/>
+
+</menu>
